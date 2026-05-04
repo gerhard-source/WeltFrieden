@@ -1,6 +1,6 @@
 # Warwick Deeping "Hauptmann Sorell und sein Sohn"
 
-Ein Mensch unterhält mit einer KI über das Buch "**Sorrell and Son**" (1925) von **Warwick Deeping**
+Ein Mensch unterhält sich mit einer KI über das Buch "**Sorrell and Son**" (1925) von **Warwick Deeping**
 
 ## **KI**:  "**Hauptmann Sorell und sein Sohn**" ist die deutsche Übersetzung des internationalen Bestseller-Romans "**Sorrell and Son**" (1925) von **Warwick Deeping**
 
