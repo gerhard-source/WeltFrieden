@@ -1,11 +1,13 @@
 # World Peace (WeltFrieden)
 
-## [Träume und Gedanken des Alten, der zum Himmel schaut](./Träume und Gedanken des Alten, der zum Himmel schaut.md)
+## [Träume und Gedanken des Alten, der zum Himmel schaut](./'Träume und Gedanken des Alten, der zum Himmel schaut'.md)
 ***Vers. 1.5 von Gerhard Hy***
 ### Ein Märchen, frei nach Goethes Faust und der Bibel
 
 ### [Video von Buch1 Kapitel 1 Bedrohung und das Prinzip Hoffnung.](https://youtu.be/M9LCDQZbmII)
  ***Es werden weiter Videos folgen***
+
+ 
 
 ## [COMMUNICATION TO THE POWERFUL OF THE WORLD](./KOMMUNIQUÉ_AN_DIE_MÄCHTIGEN_DER_WELT_en.md)
 
