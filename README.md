@@ -1,6 +1,6 @@
 # World Peace (WeltFrieden)
 
-## [Träume und Gedanken des Alten, der zum Himmel schaut]((https://github.com/gerhard-source/WeltFrieden/blob/main/Tr%C3%A4ume%20und%20Gedanken%20des%20Alten%2C%20der%20zum%20Himmel%20schaut.md))
+## [Träume und Gedanken des Alten, der zum Himmel schaut](https://github.com/gerhard-source/WeltFrieden/blob/main/Tr%C3%A4ume%20und%20Gedanken%20des%20Alten%2C%20der%20zum%20Himmel%20schaut.md)
 ***Von Gerhard Hy  Vers. 1.5 ***
 ### Ein Märchen, frei nach Goethes Faust und der Bibel
 
