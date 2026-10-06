@@ -4,7 +4,7 @@
 
 ***Von Gerhard Hy  Vers. 1.5 ***   *Ein Märchen, frei nach Goethes Faust und der Bibel.* 
 
-  ***Eine Geschichte über Gefahr und Hoffnung für die Menschheit.***
+  ***Eine Geschichte für die Menschheit über Gefahr und Hoffnung.***
 
 ### [Video von Buch1: Kapitel 1 Bedrohung und das Prinzip Hoffnung.](https://youtu.be/M9LCDQZbmII)
  ***Es werden weiter Videos folgen***
