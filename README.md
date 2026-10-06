@@ -1,6 +1,6 @@
 # World Peace (WeltFrieden)
 
-## [Träume und Gedanken des Alten, der zum Himmel schaut](./'Träume und Gedanken des Alten, der zum Himmel schaut'.md)
+## [Träume und Gedanken des Alten, der zum Himmel schaut](./"Träume und Gedanken des Alten, der zum Himmel schaut".md)
 ***Vers. 1.5 von Gerhard Hy***
 ### Ein Märchen, frei nach Goethes Faust und der Bibel
 
