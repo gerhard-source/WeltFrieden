@@ -4,7 +4,8 @@
 ***Vers. 1.5 von Gerhard Hy***
 ### Ein Märchen, frei nach Goethes Faust und der Bibel
 
-### [Video1 auf Youtube:](https://youtu.be/M9LCDQZbmII)
+### [Das Video enthält von Buch1 Kapitel 1 Bedrohung und das Prinzip Hoffnung.
+Es werden weitere Videos folgen.](https://youtu.be/M9LCDQZbmII)
  
 
 ## [COMMUNICATION TO THE POWERFUL OF THE WORLD](./KOMMUNIQUÉ_AN_DIE_MÄCHTIGEN_DER_WELT_en.md)
